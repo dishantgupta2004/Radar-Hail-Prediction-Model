@@ -1,5 +1,6 @@
 # Ignore virtual environment
 myenv/
+.vs/
 
 # Ignore dataset files
 data/processed/
