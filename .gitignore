@@ -1,0 +1,44 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore dataset files
+data/processed/
+data/simulated/
+*.csv
+*.h5
+
+# Ignore Jupyter and notebook-related outputs
+*.ipynb_checkpoints/
+notebooks/__pycache__/
+notebooks/*.ipynb
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Ignore VSCode settings
+.vscode/
+*.code-workspace
+
+# Ignore test outputs and logs
+tests/__pycache__/
+*.log
+
+# Ignore Mermaid diagram preview or intermediate files
+*.mermaid
+
+# Ignore OS or editor-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any model weights or output files
+*.pt
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Ignore compiled objects or shared libs
+*.so
+*.dll
+*.dylib
