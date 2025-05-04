@@ -196,4 +196,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-This work was supported by a grant from the National Science Foundation.
+This work is supported by the National Institute of Technology, Hamirpur (NITH) under its startup incubation initiative. We gratefully acknowledge the support and initial funding provided by the Innovation and Incubation Center at NITH, which made the early development of this project possible.
