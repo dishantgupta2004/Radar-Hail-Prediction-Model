@@ -11,7 +11,6 @@ data/simulated/
 # Ignore Jupyter and notebook-related outputs
 *.ipynb_checkpoints/
 notebooks/__pycache__/
-notebooks/*.ipynb
 
 # Ignore Python bytecode and cache
 __pycache__/

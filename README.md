@@ -177,17 +177,7 @@ The model is evaluated using several metrics:
 - Structural Similarity Index (SSIM)
 - Critical Success Index (CSI)
 
-## Citation
-
-If you use this code in your research, please cite our work:
-
-```
-@article{gupta2024hybrid,
-  title={Hybrid Transformer-Physics-GenAI Framework for Physics-Informed Hailstorm Prediction Using Deep Neural Operators},
-  author={Gupta, Dishant and Mokta, Ajay},
-  journal={},
-  year={2024}
-}
+The clean and preprocessed dataset is available here in a h5 file.
 ```
 
 ## License
